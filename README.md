@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Enterprise-High-Performance-Device-Cloud/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Enterprise-High-Performance-Device-Cloud/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-High-Performance-Device-Cloud?style=social)](https://github.com/ishandutta2007/Awesome-Enterprise-High-Performance-Device-Cloud/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-High-Performance-Device-Cloud?style=social)](https://github.com/ishandutta2007/Awesome-Enterprise-High-Performance-Device-Cloud/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -78,9 +78,9 @@ The sector displays a **moderately fragmented yet top-heavy structure**:
 
 ## 💻 Open-Source Device Farms & Automation Frameworks
 
-> 📌 **Note:** Repositories are ordered by **GitHub Star Count** descending. Star badges link directly to each project's stargazers page.
+> 📌 **Note:** Repositories are ordered by **GitHub Stars_Count** descending. Stars_Badges link directly to each project's stargazers page.
 
-| Project | ⭐ GitHub Stars | 📝 Architectural Description |
+| Project | ⭐ GitHub_Stars | 📝 Architectural Description |
 |:---|:---|:---|
 | **[OpenSTF (stf)](https://github.com/openstf/stf)** | [![Stars](https://img.shields.io/github/stars/openstf/stf?style=social&color=white)](https://github.com/openstf/stf/stargazers) | **The foundational open-source Android device farm platform.** Control physical Android devices from any browser with real-time screen streaming (minicap), remote touch/gestures (minitouch), app deployment, and remote ADB debugging over TCP/IP. |
 | **[Airtest](https://github.com/AirtestProject/Airtest)** | [![Stars](https://img.shields.io/github/stars/AirtestProject/Airtest?style=social&color=white)](https://github.com/AirtestProject/Airtest/stargazers) | **Cross-platform UI automation framework** by NetEase for Android, iOS, and Windows. Utilizes computer vision and OCR to automate testing across multi-device farms without requiring source code modification. |
